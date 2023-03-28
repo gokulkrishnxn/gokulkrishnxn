@@ -1,7 +1,10 @@
-### Hi there 👋
 
+###Gokul Radhakrishnan
 
-**gokulkrishnxn/gokulkrishnxn** i am a offensive Security Researcher ✨ **RedTeaming**✨ 
+<style>H1{color:Red;}</style>
+
+- I Am A offensive Security Researcher 
+✨**RedTeaming**✨,  
 
 Here are some ideas to get you started:
 
@@ -13,4 +16,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-
