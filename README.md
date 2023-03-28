@@ -1,12 +1,10 @@
-
-###Gokul Radhakrishnan
+# Gokul Radhakrishnan
 
 <style>H1{color:Red;}</style>
 
-- I Am A offensive Security Researcher 
-✨**RedTeaming**✨,  
-
-Here are some ideas to get you started:
+## I Am A offensive Security Researcher 
+<style>H2{color:DarkOrange;}</style>
+✨**RedTeaming**✨,  ✨**Offensive Security**✨, ✨**Reverse Engeering**✨, ✨**Malware**✨, ✨**Exploit Development**✨
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
